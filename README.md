@@ -1,6 +1,6 @@
 ![Sky logo](./docs/assets/logo.png)
 
-# QGO Desktop Assessment
+# Sky QGO Desktop Assessment
 
 ## Overview
 
@@ -26,8 +26,9 @@ you have with a note about what is left to do. We know your time is precious
 and you don't want to spend all day on a technical test!
 
 Given the time constrain we'd rather you focused on:
-* Making it work, first and foremost!
-* Unit tests.
+
+- Making it work, first and foremost!
+- Unit tests.
 
 Don't worry about making it look nice, or fancy CSS effects. We're happy with
 unstyled buttons and elements. We'll be focusing on the code more than the
@@ -74,7 +75,7 @@ time.
 
 Ideally this should feel as much like normal development as possible.
 
-* Feel free to search for any information you need.
-* You can add any libraries you need to get the job done.
-* Please contact us if you have any questions about the task, we're happy to
+- Feel free to search for any information you need.
+- You can add any libraries you need to get the job done.
+- Please contact us if you have any questions about the task, we're happy to
   give more details!
