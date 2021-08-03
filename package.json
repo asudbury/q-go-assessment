@@ -1,5 +1,6 @@
 {
   "name": "q-go-assessment",
+  "homepage": "http://asudbury.github.io/q-go-assessment",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
