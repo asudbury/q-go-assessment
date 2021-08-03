@@ -1,7 +1,4 @@
-.itemsList-ul {
-  list-style-type: none;
-}
-
-.itemsList-ul li {
-  padding: 5px;
+.center {
+  margin-left: auto;
+  margin-right: auto;
 }
