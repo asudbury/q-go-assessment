@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/q-go-assessment/static/css/main.adb608cf.chunk.css",
+    "main.js": "/q-go-assessment/static/js/main.e99ba8b2.chunk.js",
+    "main.js.map": "/q-go-assessment/static/js/main.e99ba8b2.chunk.js.map",
+    "runtime-main.js": "/q-go-assessment/static/js/runtime-main.56fba70c.js",
+    "runtime-main.js.map": "/q-go-assessment/static/js/runtime-main.56fba70c.js.map",
+    "static/js/2.be67033a.chunk.js": "/q-go-assessment/static/js/2.be67033a.chunk.js",
+    "static/js/2.be67033a.chunk.js.map": "/q-go-assessment/static/js/2.be67033a.chunk.js.map",
+    "index.html": "/q-go-assessment/index.html",
+    "static/css/main.adb608cf.chunk.css.map": "/q-go-assessment/static/css/main.adb608cf.chunk.css.map",
+    "static/js/2.be67033a.chunk.js.LICENSE.txt": "/q-go-assessment/static/js/2.be67033a.chunk.js.LICENSE.txt",
+    "static/media/logo.a0a9e70a.png": "/q-go-assessment/static/media/logo.a0a9e70a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56fba70c.js",
+    "static/js/2.be67033a.chunk.js",
+    "static/css/main.adb608cf.chunk.css",
+    "static/js/main.e99ba8b2.chunk.js"
+  ]
+}
